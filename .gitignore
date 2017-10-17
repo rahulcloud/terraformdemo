@@ -4,3 +4,5 @@ access.tf
 *#
 terraform.tfstate
 *.pem
+clouddevops.pem.pub
+clouddevops.pem
